@@ -1,0 +1,14 @@
+References:
+
+1-https://www.tutorialride.com/data-structures/searching-in-data-structure.htm
+2-https://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm
+3-https://www.w3schools.in/data-structures-tutorial/searching-techniques/
+4-https://medium.com/karuna-sehgal/an-simplified-explanation-of-linear-search-5056942ba965
+
+
+Videos:
+1-https://www.youtube.com/watch?v=UldZOLylez4
+2-https://www.youtube.com/watch?v=ap8YSOIXWME
+
+Slides:
+https://docs.google.com/presentation/d/10DARfZoPDnSzrzAXZu5S4N3iqpdRRZYbGdp-JA5xRCo/edit#slide=id.p1
